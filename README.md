@@ -1,4 +1,4 @@
-# copy_paste_automation
+# automation_application_portfolio
 I tried to automate the process of copy-pasting data from one Excel workbook to another, with different formats. 
 
 The painpoint of manual work in Excel is that it is easy to make trivial mistakes when dealing with middle-sized Excel datasets, which would cause unnecessary trouble on data quality.
